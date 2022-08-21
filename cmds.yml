@@ -1,0 +1,5 @@
+hello:
+  desc: "This is a basic hello command"
+  args:
+    - ""
+    - "@Someone"
